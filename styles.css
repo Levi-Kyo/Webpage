@@ -1,0 +1,30 @@
+.intro,
+.intro.one,
+.header,
+.title {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.intro {
+    background-color: black;
+    color: blue
+}
+.intro.one {
+    text-align: center;
+}
+.header {
+    text-align: center;
+    font-weight: bold;
+    font-size: 37px;
+}
+.title {
+    text-align: center;
+    font-size: 24px;
+
+}
+.img {
+    text-align: center;
+}
+p {
+    font-size: 18px;
+}
